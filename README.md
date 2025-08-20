@@ -1,5 +1,5 @@
 WIP, OFCO prototype, august 2025
-Maintener @Orphanet
+Maintainer @Orphanet
 
 OFCO ontology : Orphanet Functionnal Consequences Ontology
 
